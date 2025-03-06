@@ -1,0 +1,82 @@
+{
+  "how_to_buy_title": "Hoe Virtu Pace Tokens kopen",
+  "how_to_buy_desc": "Onze presale-pagina ondersteunt betalingen via zowel gedecentraliseerde wallettransacties met verschillende cryptovaluta als creditcardbetalingen, wat flexibiliteit biedt voor alle gebruikers. Voor creditcardaankopen kunnen gebruikers inloggen met Google of e-mail, of direct een bestaande gedecentraliseerde wallet koppelen als ze die al hebben.",
+  "decentralized_wallet_payment": {
+    "title": "Betaling met gedecentraliseerde portemonnees (Metamask, Trust Wallet)",
+    "description": "Voor degenen die betalen met ETH, BNB, POL, SOL, TRX of USDT (beschikbaar op de Ethereum-, BSC- en Polygon-netwerken), is een gedecentraliseerde wallet vereist.",
+    "setup_wallet": {
+      "title": "Je wallet instellen",
+      "step_1": "Installeer een gedecentraliseerde wallet zoals MetaMask of Trust Wallet op je mobiele apparaat of als browserextensie."
+    },
+    "fund_wallet": {
+      "title": "Vul je wallet aan",
+      "step_1": "Zorg ervoor dat je voldoende van de gekozen cryptovaluta (bijvoorbeeld ETH, BNB) in je wallet hebt. Koop deze op een gecentraliseerde exchange (bijvoorbeeld Binance, Coinbase) en stuur deze naar je gedecentraliseerde wallet.",
+      "step_2": "Je hebt een kleine hoeveelheid van de native valuta nodig (bijvoorbeeld ETH voor Ethereum) om de netwerktransactiekosten te dekken."
+    },
+    "connect_wallet": {
+      "title": "Wallet verbinden met voorverkooppagina",
+      "step_1": "Bezoek de Virtu Pace voorverkooppagina.",
+      "step_2": "Klik op ''Connect Wallet'' en kies je walletprovider (bijvoorbeeld MetaMask, Trust Wallet).",
+      "step_3": "Autoriseer de verbinding via je wallet-app."
+    },
+    "complete_payment": {
+      "title": "Voltooi de betaling",
+      "step_1": "Selecteer de token die je wilt gebruiken voor de aankoop en geef het bedrag op.",
+      "step_2": "Bevestig de transactie in je wallet en controleer de netwerkvergoedingen en details.",
+      "step_3": "Na bevestiging worden je aangeschafte Virtu Pace-tokens voor jou gereserveerd tot het listingevenement."
+    },
+    "claim_tokens": {
+      "title": "Tokens claimen bij Lijst",
+      "step_1": "Na de listing kun je de presale-pagina opnieuw bezoeken, je wallet weer verbinden en je aangeschafte Virtu Pace-tokens claimen."
+    }
+  },
+  "credit_card_payment": {
+    "title": "Betaling met creditcard",
+    "description": "Voor creditcardbetalingen bieden we twee opties: gebruikers kunnen inloggen met Google of e-mail, of een bestaande gedecentraliseerde wallet verbinden als ze dat verkiezen.",
+    "choose_login_method": {
+      "title": "Kies uw aanmeldingsmethode",
+      "step_1": "Op de Virtu Pace presale-pagina selecteer je **\"Betalen met Card\"**.",
+      "step_2": "Je kunt ervoor kiezen om in te loggen met Google of e-mail, of je bestaande gedecentraliseerde wallet (bijvoorbeeld MetaMask, Trust Wallet) te verbinden.",
+      "step_3": "Als je je wallet verbindt, zal deze fungeren als de bestemming voor je presale-tokens zodra de aankoop is voltooid."
+    },
+    "complete_payment_card": {
+      "title": "Voltooi de betaling met kaart",
+      "step_1": "Voer het aantal Virtu Pace-tokens in dat je wilt kopen en geef je creditcardgegevens op.",
+      "step_2": "Bevestig de transactie, waarna je aangeschafte tokens zullen verschijnen in het account dat gekoppeld is aan je Google/e-mailinlog of gedecentraliseerde wallet."
+    },
+    "claim_tokens_card": {
+      "title": "Tokens claimen bij Lijst",
+      "step_1": "Op de listingdag log je opnieuw in (via Google/e-mail of je gekoppelde wallet) om je tokens te claimen.",
+      "step_2": "Als je Google/e-mail hebt gebruikt, kun je je tokens overdragen van de automatisch gegenereerde wallet naar een gedecentraliseerde wallet naar keuze (bijvoorbeeld MetaMask, Trust Wallet)."
+    }
+  },
+  "Terms and Conditions": "Algemene voorwaarden",
+  "Privacy Policy": "Privacybeleid",
+  "Refund Policy": "Terugbetalingsbeleid",
+  "Disclaimer": "Disclaimer",
+  "About Us": "Over ons",
+  "News": "Nieuws",
+  "Latest Updates and Insights": "Laatste updates en inzichten",
+  "news_desc": "Blijf op de hoogte van het laatste nieuws, ontwikkelingen en educatieve content van Virtu Pace.",
+  "Read more": "Lees meer",
+  "project_announcements": "Projectaankondigingen",
+  "project_announcements_description": "Wees de eerste om te horen over belangrijke mijlpalen, partnerschappen en aankomende evenementen.",
+  "behind_the_scenes": "Achter de schermen",
+  "behind_the_scenes_description": "Krijg inzicht in het ontwikkelingsproces, ontmoet ons team en leer meer over de technologie die Virtu Pace aandrijft.",
+  "educational_content": "Educatieve inhoud",
+  "educational_content_description": "Verken artikelen die blockchainconcepten, game-mechanica en tips voor deelname aan het Virtu Pace-ecosysteem uitleggen.",
+  "community_spotlights": "Spotlights van de gemeenschap",
+  "community_spotlights_description": "Belicht bijdragen en verhalen van onze communityleden.",
+  "follow_blog": "Volg onze blog",
+  "follow_blog_description": "Houd vinger aan de pols van Virtu Pace en het veranderende landschap van blockchain gaming.",
+  "dashboard": {
+    "title": "Dashboard",
+    "your_balance": "Jouw balans",
+    "total_holders": "Totaal aantal holders",
+    "total_sold": "Totaal aantal verkocht",
+    "holding_rank": "Holding Rang",
+    "top_leaderboard": "Top Leaderboard",
+    "your_swaps": "Jouw Swaps",
+    "your_referrals": "Jouw verwijzingen"
+  }
+}

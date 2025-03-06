@@ -1,0 +1,82 @@
+{
+  "how_to_buy_title": "So kaufen Sie Virtu Pace Token",
+  "how_to_buy_desc": "Unsere Vorverkaufsseite unterstützt Zahlungen sowohl über dezentrale Wallet-Transaktionen mit verschiedenen Kryptowährungen als auch über Kreditkartenzahlungen, um allen Nutzern Flexibilität zu bieten. Für Kreditkartenzahlungen können sich Nutzer entweder mit Google oder E-Mail anmelden oder eine bestehende dezentrale Wallet verbinden, falls sie bereits eine besitzen.",
+  "decentralized_wallet_payment": {
+    "title": "Zahlung mit dezentralen Wallets (Metamask, Trust Wallet)",
+    "description": "Für Zahlungen mit ETH, BNB, POL, SOL, TRX oder USDT (verfügbar auf den Ethereum-, BSC- und Polygon-Chains) ist eine dezentrale Wallet erforderlich.",
+    "setup_wallet": {
+      "title": "Wallet einrichten",
+      "step_1": "Installieren Sie eine dezentrale Wallet wie MetaMask oder Trust Wallet auf Ihrem Mobilgerät oder als Browser-Erweiterung."
+    },
+    "fund_wallet": {
+      "title": "Wallet aufladen",
+      "step_1": "Stellen Sie sicher, dass Sie genügend von der ausgewählten Kryptowährung (z. B. ETH, BNB) in Ihrer Wallet haben. Kaufen Sie diese auf einer zentralisierten Börse (z. B. Binance, Coinbase) und transferieren Sie sie in Ihre dezentrale Wallet.",
+      "step_2": "Sie benötigen eine kleine Menge der nativen Währung (z. B. ETH für Ethereum), um Netzwerktransaktionsgebühren zu decken."
+    },
+    "connect_wallet": {
+      "title": "Wallet mit der Vorverkaufsseite verbinden",
+      "step_1": "Besuchen Sie die Vorverkaufsseite von Virtu Pace.",
+      "step_2": "Klicken Sie auf \"Wallet verbinden\" und wählen Sie Ihren Wallet-Anbieter (z. B. MetaMask, Trust Wallet).",
+      "step_3": "Autorisieren Sie die Verbindung über Ihre Wallet-App."
+    },
+    "complete_payment": {
+      "title": "Zahlung abschließen",
+      "step_1": "Wählen Sie den Token aus, den Sie für den Kauf verwenden möchten, und geben Sie den Betrag an.",
+      "step_2": "Bestätigen Sie die Transaktion in Ihrer Wallet und überprüfen Sie die Netzwerkgebühren sowie die Details.",
+      "step_3": "Nach der Bestätigung werden Ihre gekauften Virtu Pace Token bis zum Listungsereignis für Sie reserviert."
+    },
+    "claim_tokens": {
+      "title": "Tokens bei der Listung beanspruchen",
+      "step_1": "Nach der Listung können Sie die Vorverkaufsplattform erneut besuchen, Ihre Wallet erneut verbinden und Ihre gekauften Virtu Pace Tokens beanspruchen."
+    }
+  },
+  "credit_card_payment": {
+    "title": "Zahlung mit Kreditkarte",
+    "description": "Für Kreditkartenzahlungen bieten wir zwei Optionen an: Nutzer können sich mit Google oder E-Mail anmelden oder eine bestehende dezentrale Wallet verbinden, falls sie dies bevorzugen.",
+    "choose_login_method": {
+      "title": "Wählen Sie Ihre Anmeldemethode",
+      "step_1": "Wählen Sie auf der Virtu Pace Vorverkaufsseite \"Mit Karte bezahlen\" aus.",
+      "step_2": "Sie können sich entweder mit Google oder E-Mail anmelden oder Ihre bestehende dezentrale Wallet (z. B. MetaMask, Trust Wallet) verbinden.",
+      "step_3": "Wenn Sie Ihre Wallet verbinden, dient diese als Ziel für Ihre Vorverkaufs-Tokens, sobald der Kauf abgeschlossen ist."
+    },
+    "complete_payment_card": {
+      "title": "Zahlung mit Karte abschließen",
+      "step_1": "Geben Sie den Betrag an Virtu Pace Token ein, den Sie kaufen möchten, und geben Sie Ihre Kreditkartendaten an.",
+      "step_2": "Bestätigen Sie die Transaktion. Ihre gekauften Tokens erscheinen im Konto, das mit Ihrem Google-/E-Mail-Login oder Ihrer dezentralen Wallet verknüpft ist."
+    },
+    "claim_tokens_card": {
+      "title": "Tokens bei der Listung beanspruchen",
+      "step_1": "Am Listungstag können Sie sich erneut anmelden (entweder über Google/E-Mail oder Ihre verbundene Wallet), um Ihre Tokens zu beanspruchen.",
+      "step_2": "Wenn Sie Google/E-Mail verwendet haben, können Sie Ihre Tokens aus der automatisch erstellten Wallet in eine dezentrale Wallet Ihrer Wahl (z. B. MetaMask, Trust Wallet) übertragen."
+    }
+  },
+  "Terms and Conditions": "Allgemeine Geschäftsbedingungen",
+  "Privacy Policy": "Datenschutzerklärung",
+  "Refund Policy": "Rückerstattungsrichtlinie",
+  "Disclaimer": "Haftungsausschluss",
+  "About Us": "Über uns",
+  "News": "Neuigkeiten",
+  "Latest Updates and Insights": "Neueste Updates und Einblicke",
+  "news_desc": "Bleiben Sie mit den neuesten Nachrichten, Entwicklungen und Bildungsinhalten von Virtu Pace auf dem Laufenden.",
+  "Read more": "Mehr erfahren",
+  "project_announcements": "Projektankündigungen",
+  "project_announcements_description": "Erfahren Sie als Erster von wichtigen Meilensteinen, Partnerschaften und bevorstehenden Events.",
+  "behind_the_scenes": "Hinter den Kulissen",
+  "behind_the_scenes_description": "Erhalten Sie Einblicke in den Entwicklungsprozess, lernen Sie unser Team kennen und erfahren Sie mehr über die Technologie hinter Virtu Pace.",
+  "educational_content": "Bildungsinhalte",
+  "educational_content_description": "Entdecken Sie Artikel, die Blockchain-Konzepte, Spielmechaniken und Tipps zur Teilnahme am Virtu Pace Ökosystem erklären.",
+  "community_spotlights": "Community-Highlights",
+  "community_spotlights_description": "Beiträge und Geschichten unserer Community-Mitglieder im Rampenlicht.",
+  "follow_blog": "Folgen Sie unserem Blog",
+  "follow_blog_description": "Bleiben Sie auf dem Laufenden über Virtu Pace und die sich wandelnde Welt des Blockchain-Gamings.",
+  "dashboard": {
+    "title": "Dashboard",
+    "your_balance": "Ihr Guthaben",
+    "total_holders": "Insgesamt Halter",
+    "total_sold": "Insgesamt verkauft",
+    "holding_rank": "Halter-Rang",
+    "top_leaderboard": "Top-Rangliste",
+    "your_swaps": "Ihre Swaps",
+    "your_referrals": "Ihre Empfehlungen"
+  }
+}

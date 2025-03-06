@@ -1,0 +1,82 @@
+{
+  "how_to_buy_title": "Cara Membeli Token Virtu Pace",
+  "how_to_buy_desc": "Halaman presale kami mendukung pembayaran melalui transaksi dompet terdesentralisasi menggunakan bermacam-macam mata uang kripto dan kartu kredit, sehingga fleksibel untuk semua pengguna. Untuk pembelian kartu kredit, pengguna dapat masuk menggunakan Google atau email atau langsung menghubungkan dompet yang terdesentralisasi jika ada.",
+  "decentralized_wallet_payment": {
+    "title": "Pembayaran Menggunakan Dompet Terdesentralisasi (MetaMask, Trust Wallet)",
+    "description": "Bagi mereka yang membayar dengan ETH, BNB, POL, SOL, TRX, atau USDT (tersedia di rantai Ethereum, BSC, serta Polygon), diperlukan dompet yang terdesentralisasi.",
+    "setup_wallet": {
+      "title": "Atur Dompet Anda",
+      "step_1": "Instal dompet terdesentralisasi seperti MetaMask atau Trust Wallet di perangkat seluler atau sebagai ekstensi peramban."
+    },
+    "fund_wallet": {
+      "title": "Isi Dompet Anda",
+      "step_1": "Pastikan Anda punya cukup mata uang kripto terpilih (mis. ETH, BNB) di dompet Anda. Beli di bursa tersentralisasi (mis. Binance, Coinbase) dan transfer ke dompet terdesentralisasi Anda.",
+      "step_2": "Anda akan perlu sedikit mata uang asli (mis. ETH untuk Ethereum) untuk menutupi biaya transaksi jaringan."
+    },
+    "connect_wallet": {
+      "title": "Hubungkan Dompet ke Halaman Presale",
+      "step_1": "Kunjungi halaman presale Virtu Pace.",
+      "step_2": "Klik \"Hubungkan\" Dompet dan pilih penyedia dompet Anda (mis. MetaMask, Trust Wallet).",
+      "step_3": "Autorisasikan koneksi melalui aplikasi dompet Anda."
+    },
+    "complete_payment": {
+      "title": "Selesaikan Pembayaran",
+      "step_1": "Pilih token yang ingin Anda gunakan untuk pembelian dan tentukan jumlahnya.",
+      "step_2": "Konfirmasikan transaksi di dompet Anda, dengan meninjau biaya dan detail jaringan.",
+      "step_3": "Setelah konfirmasi, token Virtu Pace yang Anda beli akan disimpan untuk Anda hingga acara pencatatan."
+    },
+    "claim_tokens": {
+      "title": "Klaim Token Saat Pencatatan",
+      "step_1": "Setelah pencatatan, Anda dapat mengunjungi kembali platform presale, menghubungkan kembali dompet Anda, dan mengklaim token Virtu Pace yang Anda beli."
+    }
+  },
+  "credit_card_payment": {
+    "title": "Pembayaran Menggunakan Kartu Kredit",
+    "description": "Untuk pembayaran kartu kredit, kami menawarkan dua opsi: pengguna dapat masuk dengan Google atau email, atau menghubungkan dompet terdesentralisasi yang ada jika mereka mau.",
+    "choose_login_method": {
+      "title": "Pilih Metode Login Anda",
+      "step_1": "Pada halaman presale Virtu Pace, pilih \"Bayar dengan Kartu\".",
+      "step_2": "Anda dapat memilih untuk masuk menggunakan Google atau email atau menghubungkan dompet terdesentralisasi yang ada (mis. MetaMask, Trust Wallet). ",
+      "step_3": "Jika Anda menghubungkan dompet Anda, dompet tersebut akan berlaku sebagai tujuan untuk token presale Anda setelah pembelian selesai."
+    },
+    "complete_payment_card": {
+      "title": "Selesaikan Pembayaran dengan Kartu",
+      "step_1": "Masukkan jumlah token Virtu Pace yang ingin Anda beli dan isi detail kartu kredit Anda.",
+      "step_2": " Konfirmasikan transaksi, setelah itu token yang Anda beli akan muncul di akun yang terhubung dengan login Google/email atau dompet terdesentralisasi Anda."
+    },
+    "claim_tokens_card": {
+      "title": "Klaim Token Saat Pencatatan",
+      "step_1": "Pada hari pencatatan, masuk kembali (baik melalui Google/email atau dompet yang terhubung) untuk mengklaim token Anda.",
+      "step_2": "Jika Anda menggunakan Google/email, Anda dapat mentransfer token Anda dari dompet yang dikeluarkan secara otomatis ke dompet terdesentralisasi pilihan Anda (misalnya, MetaMask, Trust Wallet)."
+    }
+  },
+  "Terms and Conditions": "Syarat dan Ketentuan",
+  "Privacy Policy": "Kebijakan Privasi",
+  "Refund Policy": "Kebijakan Pengembalian Dana",
+  "Disclaimer": "Penafian",
+  "About Us": "Tentang Kami",
+  "News": "Berita",
+  "Latest Updates and Insights": "Update dan Wawasan Terbaru",
+  "news_desc": "Tetap ikuti berita, perkembangan, dan konten edukasi terbaru dari Virtu Pace.",
+  "Read more": "Baca lebih lanjut",
+  "project_announcements": "Pengumuman Proyek",
+  "project_announcements_description": "Jadilah yang pertama mengetahui tentang tonggak penting, kemitraan, dan acara mendatang.",
+  "behind_the_scenes": "Di Balik Layar",
+  "behind_the_scenes_description": "Dapatkan wawasan tentang proses pengembangan, temui tim kami, dan pelajari tentang teknologi yang memberdayakan Virtu Pace.",
+  "educational_content": "Konten Edukasi",
+  "educational_content_description": "Jelajahi artikel yang menjelaskan konsep blockchain, mekanisme dunia game, dan kiat untuk berpartisipasi dalam ekosistem Virtu Pace.",
+  "community_spotlights": "Sorotan Komunitas",
+  "community_spotlights_description": "Menyoroti kontribusi dan cerita dari anggota komunitas kami.",
+  "follow_blog": "Ikuti blog kami",
+  "follow_blog_description": "Pantau terus inti Virtu Pace dan lanskap dunia game blockchain yang terus berkembang.",
+  "dashboard": {
+    "title": "Dasbor",
+    "your_balance": "Saldo Anda",
+    "total_holders": "Total Pemegang Saham",
+    "total_sold": "Total Terjual",
+    "holding_rank": "Peringkat Pemegang",
+    "top_leaderboard": "Papan Skor Teratas",
+    "your_swaps": "Pertukaran Anda",
+    "your_referrals": "Referral Anda"
+  }
+}

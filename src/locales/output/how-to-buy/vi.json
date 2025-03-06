@@ -1,0 +1,82 @@
+{
+  "how_to_buy_title": "Làm thế nào để mua token virtupace",
+  "how_to_buy_desc": "Bạn có thể thanh toán bằng nhiều cách khác nhau trên trang mở bán trước của chúng tôi. Bạn có thể sử dụng ví điện tử để thanh toán bằng các loại tiền điện tử khác nhau hoặc dùng thẻ tín dụng. Nếu muốn thanh toán bằng thẻ tín dụng, bạn có thể đăng nhập bằng tài khoản Google hoặc email, hoặc kết nối trực tiếp với ví điện tử có sẵn.",
+  "decentralized_wallet_payment": {
+    "title": "Thanh toán bằng Ví điện tử phi tập trung (Metamask, Trust Wallet)",
+    "description": "Bạn cần sử dụng ví điện tử phi tập trung nếu thanh toán bằng ETH, BNB, POL, SOL, TRX hoặc USDT (trên các mạng Ethereum, BSC và Polygon)",
+    "setup_wallet": {
+      "title": "Thiết lập ví",
+      "step_1": "Hãy cài đặt ví điện tử như MetaMask hoặc Trust Wallet trên điện thoại di động hoặc dưới dạng tiện ích mở rộng trình duyệt."
+    },
+    "fund_wallet": {
+      "title": "Nạp tiền vào ví",
+      "step_1": "Hãy đảm bảo ví của bạn có đủ số lượng loại tiền điện tử đã chọn (ví dụ: ETH, BNB). Hãy mua trên sàn giao dịch tập trung (ví dụ: Binance, Coinbase) và chuyển vào ví điện tử của bạn.",
+      "step_2": "Bạn sẽ cần một số lượng nhỏ tiền tệ gốc (ví dụ: ETH cho Ethereum) để thanh toán phí mạng giao dịch."
+    },
+    "connect_wallet": {
+      "title": "Liên kết ví tới trang mở bán trước",
+      "step_1": "Truy cập trang mở bán trước Virtu Pace",
+      "step_2": "Nhấn \"Liên kết\" Ví và chọn nhà cung cấp ví của bạn (ví dụ: MetaMask, Trust Wallet).",
+      "step_3": "Xác nhận liên kết thông qua ứng dụng ví của bạn."
+    },
+    "complete_payment": {
+      "title": "Hoàn tất thanh toán",
+      "step_1": "Chọn loại token bạn muốn sử dụng để mua và chỉ định số lượng.",
+      "step_2": "Xác nhận giao dịch trong ví của bạn, xem xét phí mạng và các chi tiết khác.",
+      "step_3": "Sau khi xác nhận, token Virtu Pace bạn mua sẽ được giữ cho đến khi sự kiện niêm yết diễn ra."
+    },
+    "claim_tokens": {
+      "title": "Nhận Token khi Niêm yết",
+      "step_1": "Sau khi niêm yết, bạn có thể quay lại nền tảng mở bán trước, liên kết lại ví của mình và nhận token Virtu Pace đã mua."
+    }
+  },
+  "credit_card_payment": {
+    "title": "Thanh toán bằng thẻ tín dụng",
+    "description": "Đối với thanh toán bằng thẻ tín dụng, chúng tôi cung cấp hai tùy chọn: người dùng có thể đăng nhập bằng Google hoặc email, hoặc kết nối ví điện tử hiện có nếu muốn.",
+    "choose_login_method": {
+      "title": "Chọn phương thức đăng nhập",
+      "step_1": "Trên trang mở bán trước của Virtu Pace, chọn \"Thanh toán bằng thẻ\".",
+      "step_2": "Bạn có thể chọn đăng nhập bằng Google hoặc email hoặc kết nối ví điện tử hiện có của mình (ví dụ: MetaMask, Trust Wallet).",
+      "step_3": "Nếu bạn liên kết ví của mình, các token chương trình mở bán trước sẽ được chuyển vào ví sau khi hoàn tất thanh toán."
+    },
+    "complete_payment_card": {
+      "title": "Hoàn thành thanh toán bằng thẻ",
+      "step_1": "Nhập số lượng token Virtu Pace bạn muốn mua và cung cấp thông tin thẻ tín dụng của bạn.",
+      "step_2": "Xác nhận giao dịch, sau đó các token bạn mua sẽ được chuyển về tài khoản liên kết với đăng nhập Google/email hoặc ví điện tử của bạn."
+    },
+    "claim_tokens_card": {
+      "title": "Nhận Token khi Niêm yết",
+      "step_1": "Vào ngày niêm yết, hãy đăng nhập lại (bằng Google/email hoặc ví đã liên kết) để nhận token của mình.",
+      "step_2": "Nếu bạn sử dụng Google/email, bạn có thể chuyển token của mình từ ví tạo tự động sang ví điện tử bạn chọn (ví dụ: MetaMask, Trust Wallet)."
+    }
+  },
+  "Terms and Conditions": "Điều khoản và điều kiện",
+  "Privacy Policy": "Chính sách bảo mật",
+  "Refund Policy": "Chính sách hoàn tiền",
+  "Disclaimer": "Miễn trừ trách nhiệm",
+  "About Us": "Giới thiệu",
+  "News": "Tin tức",
+  "Latest Updates and Insights": "Cập nhật mới nhất và thông tin chi tiết",
+  "news_desc": "Hãy cập nhật những tin tức, các bản cập nhật và nội dung giáo dục mới nhất từ Virtu Pace.",
+  "Read more": "Đọc thêm",
+  "project_announcements": "Thông báo dự án",
+  "project_announcements_description": "Đừng bỏ lỡ bất kỳ cột mốc quan trọng, các mối quan hệ hợp tác và các sự kiện nào sắp tới.",
+  "behind_the_scenes": "Chuyện hậu trường",
+  "behind_the_scenes_description": "Hãy khám phá quá trình phát triển, gặp gỡ đội ngũ của chúng tôi và tìm hiểu về công nghệ đằng sau Virtu Pace.",
+  "educational_content": "Nội dung giáo dục",
+  "educational_content_description": "Khám phá các bài viết giải thích các khái niệm blockchain, cơ chế trò chơi và các mẹo tham gia vào hệ sinh thái Virtu Pace.",
+  "community_spotlights": "Điểm nhấn cộng đồng",
+  "community_spotlights_description": "Chia sẻ những câu chuyện và thành tích đáng kinh ngạc của cộng đồng.",
+  "follow_blog": "Theo dõi blog của chúng tôi",
+  "follow_blog_description": "Hãy luôn cập nhật những thông tin mới nhất về Virtu Pace và sự phát triển không ngừng của ngành game blockchain.",
+  "dashboard": {
+    "title": "Trang chủ",
+    "your_balance": "Số dư",
+    "total_holders": "Tổng số người sở hữu",
+    "total_sold": "Tổng số đã bán",
+    "holding_rank": "Xếp hạng sở hữu",
+    "top_leaderboard": "Bảng xếp hạng",
+    "your_swaps": "Chuyển đổi",
+    "your_referrals": "Giới thiệu"
+  }
+}

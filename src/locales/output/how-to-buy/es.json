@@ -1,0 +1,82 @@
+{
+  "how_to_buy_title": "Cómo comprar tokens de Virtu Pace",
+  "how_to_buy_desc": "Nuestra página de preventa admite tanto pagos realizados con billeteras descentralizadas usando varias criptomonedas como pagos con tarjeta de crédito, lo que facilita a los usuarios realizar la compra. Para las compras con tarjeta de crédito, los usuarios pueden iniciar sesión con Google o con su correo electrónico o conectar directamente una billetera descentralizada si ya tienen una.",
+  "decentralized_wallet_payment": {
+    "title": "Pago con billeteras descentralizadas (Metamask, Trust Wallet)",
+    "description": "Para pagar con ETH, BNB, POL, SOL, TRX o USDT (disponible en las cadenas de bloques Ethereum, BSC y Polygon), se requiere una billetera descentralizada.",
+    "setup_wallet": {
+      "title": "Configurar tu billetera",
+      "step_1": "Instala una billetera descentralizada, como MetaMask o Trust Wallet, en tu dispositivo móvil o como una extensión del navegador."
+    },
+    "fund_wallet": {
+      "title": "Depositar fondos en tu billetera",
+      "step_1": "Asegúrate de disponer en tu billetera de suficiente cantidad de la criptomoneda seleccionada (por ejemplo, ETH, BNB). Cómprala en un exchange centralizado (por ejemplo, Binance, Coinbase) y transfiérela a tu billetera descentralizada.",
+      "step_2": "Necesitarás una pequeña cantidad de moneda nativa (por ejemplo, ETH en el caso de Ethereum) para cubrir las tarifas de transacción de la red."
+    },
+    "connect_wallet": {
+      "title": "Conectar billetera con la página de preventa",
+      "step_1": "Visita la página de preventa de Virtu Pace.",
+      "step_2": "Haz clic en \"Conectar\" billetera y elige tu proveedor (por ejemplo, MetaMask, Trust Wallet).",
+      "step_3": "Autoriza la conexión en la aplicación de tu billetera."
+    },
+    "complete_payment": {
+      "title": "Completar el pago",
+      "step_1": "Selecciona el token que deseas utilizar para la compra e indica la cantidad.",
+      "step_2": "Confirma la transacción en tu billetera. No te olvides de revisar los detalles y las tarifas de red.",
+      "step_3": "Tras la confirmación, te reservaremos los tokens de Virtu Pace que hayas comprado hasta su salida a cotización."
+    },
+    "claim_tokens": {
+      "title": "Reclamar tokens tras empezar a cotizar",
+      "step_1": "Después de la salida a cotización, visita la plataforma de preventa, vuelve a conectar tu billetera y reclama los tokens de Virtu Pace que compraste."
+    }
+  },
+  "credit_card_payment": {
+    "title": "Pago con tarjeta de crédito",
+    "description": "Para pagar con tarjeta de crédito, ofrecemos dos opciones: los usuarios pueden iniciar sesión con Google o su correo electrónico o, si lo prefieren, conectar una billetera descentralizada.",
+    "choose_login_method": {
+      "title": "Elegir tu método de inicio de sesión",
+      "step_1": "En la página de preventa de Virtu Pace, selecciona \"Pagar con tarjeta\".",
+      "step_2": "Puedes optar por iniciar sesión con Google o un correo electrónico o conectar tu billetera descentralizada (por ejemplo, MetaMask, Trust Wallet).",
+      "step_3": "Si conectas tu billetera, actuará como destino para los tokens de la preventa una vez que completes la compra."
+    },
+    "complete_payment_card": {
+      "title": "Completar el pago con tarjeta",
+      "step_1": "Escribe la cantidad de tokens de Virtu Pace que quieres comprar y proporciona los datos de tu tarjeta de crédito.",
+      "step_2": " Confirma la transacción. Tras ello, los tokens comprados aparecerán en la cuenta vinculada a tu inicio de sesión con Google/correo electrónico o en tu billetera descentralizada."
+    },
+    "claim_tokens_card": {
+      "title": "Reclamar tokens tras empezar a cotizar",
+      "step_1": "El día de salida al mercado, vuelve a iniciar sesión (con Google/correo electrónico o tu billetera conectada) para reclamar tus tokens.",
+      "step_2": "Si usaste Google/correo electrónico, puedes transferir tus tokens desde la billetera generada automáticamente a la billetera descentralizada que elijas (por ejemplo, MetaMask, Trust Wallet)."
+    }
+  },
+  "Terms and Conditions": "Términos y Condiciones",
+  "Privacy Policy": "Política de privacidad",
+  "Refund Policy": "Política de reembolso",
+  "Disclaimer": "Descargo de responsabilidad",
+  "About Us": "Sobre nosotros",
+  "News": "Noticias",
+  "Latest Updates and Insights": "Últimas actualizaciones e información",
+  "news_desc": "Mantente al día con las últimas noticias, novedades y contenidos educativos de Virtu Pace.",
+  "Read more": "Leer más",
+  "project_announcements": "Anuncios de proyectos",
+  "project_announcements_description": "Sé el primero en conocer los hitos alcanzados, colaboraciones y próximos eventos.",
+  "behind_the_scenes": "Entre bastidores",
+  "behind_the_scenes_description": "Descubre información sobre el proceso de desarrollo, conoce a nuestro equipo y aprende sobre la tecnología que impulsa a Virtu Pace.",
+  "educational_content": "Contenido educativo",
+  "educational_content_description": "Descubre artículos que explican conceptos de las cadenas de bloques, mecánicas de juego y consejos para participar en el ecosistema Virtu Pace.",
+  "community_spotlights": "Protagonistas de la comunidad",
+  "community_spotlights_description": "Destacamos historias y contribuciones por parte de los miembros de nuestra comunidad.",
+  "follow_blog": "Sigue nuestro blog",
+  "follow_blog_description": "Mantente al día en todo lo relacionado con Virtu Pace y la evolución de los juegos con blockchain.",
+  "dashboard": {
+    "title": "Panel de control",
+    "your_balance": "Tu saldo",
+    "total_holders": "Total de titulares",
+    "total_sold": "Total vendido",
+    "holding_rank": "Ranking de titulares",
+    "top_leaderboard": "Tabla clasificatoria",
+    "your_swaps": "Tus intercambios",
+    "your_referrals": "Tus referidos"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "how_to_buy_title": "Como comprar tokens Virtu Pace",
+  "how_to_buy_desc": "A nossa página de pré-venda suporta pagamentos através de transacções de carteiras descentralizadas utilizando várias criptomoedas e pagamentos com cartão de crédito, proporcionando flexibilidade a todos os utilizadores. Para compras com cartão de crédito, os utilizadores podem iniciar sessão com o Google ou o e-mail ou ligar diretamente uma carteira descentralizada existente, caso já tenham uma.",
+  "decentralized_wallet_payment": {
+    "title": "Pagamento através de carteiras descentralizadas (Metamask, Trust Wallet)",
+    "description": "Para quem paga com ETH, BNB, POL, SOL, TRX ou USDT (disponível nas cadeias Ethereum, BSC e Polygon), é necessária uma carteira descentralizada.",
+    "setup_wallet": {
+      "title": "Configurar a sua carteira",
+      "step_1": "Instale uma carteira descentralizada, como a MetaMask ou a Trust Wallet, no seu dispositivo móvel ou como uma extensão do browser."
+    },
+    "fund_wallet": {
+      "title": "Financiar a sua carteira",
+      "step_1": "Certifique-se de que tem o suficiente da criptomoeda selecionada (por exemplo, ETH, BNB) na sua carteira. Compre em uma corretora centralizada (por exemplo, Binance, Coinbase) e transfira para a sua carteira descentralizada.",
+      "step_2": "Necessitará de uma pequena quantia da moeda nativa (por exemplo, ETH para Ethereum) para cobrir as taxas de transação da rede."
+    },
+    "connect_wallet": {
+      "title": "Ligar a carteira à página de pré-venda",
+      "step_1": "Visite a página de pré-venda da Virtu Pace.",
+      "step_2": "Clique em \"Ligar\" Carteira e escolha a sua carteira (por exemplo, MetaMask, Trust Wallet).",
+      "step_3": "Autorize a ligação através da sua aplicação de carteira."
+    },
+    "complete_payment": {
+      "title": "Concluir o pagamento",
+      "step_1": "Selecione o token que pretende utilizar para a compra e especifique o montante.",
+      "step_2": "Confirme a transação na sua carteira, analisando as taxas e os detalhes da rede.",
+      "step_3": "Após a confirmação, os tokens Virtu Pace adquiridos serão reservados para si até ao evento da listagem."
+    },
+    "claim_tokens": {
+      "title": "Reivindicar tokens na listagem",
+      "step_1": "Após a listagem, pode revisitar a plataforma de pré-venda, voltar a ligar a sua carteira e receber os tokens Virtu Pace adquiridos."
+    }
+  },
+  "credit_card_payment": {
+    "title": "Pagamento com cartão de crédito",
+    "description": "Para pagamentos com cartão de crédito, oferecemos duas opções: os utilizadores podem iniciar sessão com o Google ou o e-mail, ou ligar uma carteira descentralizada existente, caso prefira.",
+    "choose_login_method": {
+      "title": "Escolher o seu método de início de sessão",
+      "step_1": "Na página de pré-venda da Virtu Pace, selecione “Pagar com cartão\".",
+      "step_2": "Pode optar por iniciar sessão com o Google ou e-mail, ou ligar a sua carteira descentralizada existente (por exemplo, MetaMask, Trust Wallet).",
+      "step_3": "Se ligar a sua carteira, esta funcionará como destino para os seus tokens de pré-venda quando a compra estiver concluída."
+    },
+    "complete_payment_card": {
+      "title": "Concluir o pagamento com cartão",
+      "step_1": "Insira a quantidade de fichas Virtu Pace que pretende comprar e forneça os dados do seu cartão de crédito.",
+      "step_2": "Confirme a transação, depois disso os seus tokens comprados aparecerão na conta ligada ao seu login do Google/e-mail ou carteira descentralizada."
+    },
+    "claim_tokens_card": {
+      "title": "Reivindicar tokens na listagem",
+      "step_1": "No dia da listagem, volte a iniciar sessão (através do Google/e-mail ou da sua carteira ligada) para reclamar os seus tokens.",
+      "step_2": "Se utilizou o Google/e-mail, pode transferir os seus tokens da carteira gerada automaticamente para uma carteira descentralizada à sua escolha (por exemplo, MetaMask, Trust Wallet)."
+    }
+  },
+  "Terms and Conditions": "Termos e condições",
+  "Privacy Policy": "Política de privacidade",
+  "Refund Policy": "Política de reembolso",
+  "Disclaimer": "Aviso legal",
+  "About Us": "Sobre nós",
+  "News": "Notícias",
+  "Latest Updates and Insights": "Últimas atualizações e informações",
+  "news_desc": "Acompanhe as últimas notícias, desenvolvimentos e conteúdos educativos da Virtu Pace.",
+  "Read more": "Ler mais",
+  "project_announcements": "Anúncios de projetos",
+  "project_announcements_description": "Seja o primeiro a saber sobre marcos importantes, parcerias e eventos futuros.",
+  "behind_the_scenes": "Nos bastidores",
+  "behind_the_scenes_description": "Receba informações sobre o processo de desenvolvimento, conheça a nossa equipa e saiba mais sobre a tecnologia que alimenta o Virtu Pace.",
+  "educational_content": "Conteúdo educativo",
+  "educational_content_description": "Consulte artigos que explicam conceitos de blockchain, mecânica de jogo e dicas para participar no ecossistema Virtu Pace.",
+  "community_spotlights": "Destaques da comunidade",
+  "community_spotlights_description": "Destacando as contribuições e histórias dos membros da nossa comunidade.",
+  "follow_blog": "Siga o nosso blogue",
+  "follow_blog_description": "Mantenha-se informado sobre o Virtu Pace e a evolução do panorama dos jogos na blockchain.",
+  "dashboard": {
+    "title": "Painel de controlo",
+    "your_balance": "O seu saldo",
+    "total_holders": "Total de titulares",
+    "total_sold": "Total vendido",
+    "holding_rank": "Posição de retenção",
+    "top_leaderboard": "Tabela de classificação",
+    "your_swaps": "Os seus swaps",
+    "your_referrals": "As suas referências"
+  }
+}

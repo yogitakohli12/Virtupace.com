@@ -1,0 +1,82 @@
+{
+  "how_to_buy_title": "如何購買 Virtu Pace 代幣",
+  "how_to_buy_desc": "我們的預售頁面支援使用各種加密貨幣的去中心化錢包交易和信用卡支付，為所有用戶提供了靈活的方式。對於以信用卡購買的方式，用戶可以使用谷歌或電子郵件登錄，或直接連接現有的去中心化錢包（如果已有的話）。",
+  "decentralized_wallet_payment": {
+    "title": "使用去中心化錢包付款（小狐狸錢包、幣安錢包）",
+    "description": "對於使用錢包以太幣、幣安幣、POL、索拉納、波場幣或泰達幣（可在以太坊、幣安智能鍊和 Polygon 鏈上使用）支付的用戶，需要使用去中心化錢包。",
+    "setup_wallet": {
+      "title": "設定您的錢包",
+      "step_1": "在您的行動裝置上或作為瀏覽器擴充功能安裝去中心化錢包，例如小狐狸錢包或幣安錢包。"
+    },
+    "fund_wallet": {
+      "title": "為您的錢包注資",
+      "step_1": "確保您的錢包中有足夠的所選加密貨幣（如以太幣、幣安幣）。在集中式交易所（如幣安智能鏈、Coinbase）購買加密貨幣，然後將其轉入您的去中心化錢包。",
+      "step_2": "您需要少量本幣（如以太坊的以太幣）來支付網路交易費用。"
+    },
+    "connect_wallet": {
+      "title": "將錢包連接至預售頁面",
+      "step_1": "造訪 Virtu Pace 預售頁面。",
+      "step_2": "點擊「連接錢包並選擇錢包提供商（如小狐狸錢包、幣安錢包）。",
+      "step_3": "透過錢包應用程式授權連接。"
+    },
+    "complete_payment": {
+      "title": "完成付款",
+      "step_1": "選擇您想要用於購買的代幣並指定金額。",
+      "step_2": "在錢包中確認交易，查看網路費用和詳細資訊。",
+      "step_3": "確認後，您購買的 Virtu Pace 代幣將為您保留，直到上市活動結束。"
+    },
+    "claim_tokens": {
+      "title": "上市時領取代幣",
+      "step_1": "上市後，您可以重新造訪預售平台，重新連接您的錢包，並領取您所購買的 Virtu Pace 代幣。"
+    }
+  },
+  "credit_card_payment": {
+    "title": "使用信用卡付款",
+    "description": "對於信用卡支付的方式，我們提供兩種選擇：用戶可以使用谷歌或電子郵件登錄，或根據自己的愛好連接現有的去中心化錢包。",
+    "choose_login_method": {
+      "title": "選擇您的登入方式",
+      "step_1": "在 Virtu Pace 預售頁面，選擇\"使用卡 支付",
+      "step_2": "您可以選擇使用谷歌或電子郵件登錄，或連接現有的去中心化錢包（如小狐狸錢包、幣安錢包）。",
+      "step_3": "如果您連接了錢包，購買完成後，錢包將成為您預售代幣的歸宿。"
+    },
+    "complete_payment_card": {
+      "title": "完成卡支付",
+      "step_1": "輸入您想要購買的 Virtu Pace 代幣數量，並提供您的信用卡詳細資訊。",
+      "step_2": "確認交易後，您購買的代幣將會出現在與您以谷歌/電子郵件登入或去中心化錢包連結的帳戶中。"
+    },
+    "claim_tokens_card": {
+      "title": "上市時領取代幣",
+      "step_1": "上市當天，重新登入（透過谷歌/電子郵件或連結的錢包）並領取代幣。",
+      "step_2": "如果您使用谷歌/電子郵件，您可以將代幣從自動生成的錢包轉移到您所選的去中心化錢包（如小狐狸錢包、幣安錢包）。"
+    }
+  },
+  "Terms and Conditions": "條款與條件",
+  "Privacy Policy": "隱私權政策",
+  "Refund Policy": "退款政策",
+  "Disclaimer": "免責聲明",
+  "About Us": "關於我們",
+  "News": "新聞",
+  "Latest Updates and Insights": "最新動態和見解",
+  "news_desc": "了解 Virtu Pace 的最新新聞、動態和教育內容。",
+  "Read more": "閱讀更多",
+  "project_announcements": "專案公告",
+  "project_announcements_description": "第一時間了解重要里程碑、合作關係以及即將舉行的活動。",
+  "behind_the_scenes": "幕後花絮",
+  "behind_the_scenes_description": "深入了解開發流程，與我們的團隊會面，並了解 Virtu Pace 的強大技術。",
+  "educational_content": "教育內容",
+  "educational_content_description": "探索解釋區塊鏈概念、遊戲機制以及參與 Virtu Pace 生態系統的技巧的文章。",
+  "community_spotlights": "社區焦點",
+  "community_spotlights_description": "突顯社區成員的貢獻和故事。",
+  "follow_blog": "關注我們的博客",
+  "follow_blog_description": "密切關注 Virtu Pace 的發展動態以及區塊鏈遊戲不斷發展的脈動。",
+  "dashboard": {
+    "title": "控制面板",
+    "your_balance": "您的餘額",
+    "total_holders": "持有總額",
+    "total_sold": "出售總額",
+    "holding_rank": "持有排名",
+    "top_leaderboard": "最高排行榜",
+    "your_swaps": "您的掉期合約",
+    "your_referrals": "您的推薦"
+  }
+}

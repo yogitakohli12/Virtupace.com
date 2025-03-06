@@ -1,0 +1,82 @@
+{
+  "how_to_buy_title": "Ako nakúpiť žetóny Virtu Pace",
+  "how_to_buy_desc": "Naša predpredajová stránka umožňuje platby decentralizovanými prevodmi pomocou rôznych kryptomien aj platbami kreditnou kartou, čím poskytuje flexibilitu všetkým používateľom. Používatelia sa pri nákupe s kreditnou kartou môžu prihlásiť pomocou služby Google alebo e-mailu alebo priamo pripojiť existujúcu decentralizovanú elektronickú peňaženku, ak už takouto peňaženkou disponujú.",
+  "decentralized_wallet_payment": {
+    "title": "Platba decentralizovanou peňaženkou (Metamask, Trust Wallet)",
+    "description": "Pre tých, ktorí platia s ETH, BNB, POL, SOL, TRX alebo USDT (dostupné v Ethereum, BSC a Polygon chains), je potrebná decentralizovaná peňaženka.",
+    "setup_wallet": {
+      "title": "Nastavenie peňaženky",
+      "step_1": "Nainštalujte si decentralizovanú peňaženku, napríklad MetaMask alebo Trust Wallet, do svojho mobilného zariadenia alebo ako rozšírenie prehliadača."
+    },
+    "fund_wallet": {
+      "title": "Vložiť finančné prostriedky do peňaženky",
+      "step_1": "Skontrolujte, či máte v peňaženke dostatok vybranej kryptomeny (napr. ETH, BNB). Nakúpte ju na centralizovanej burze (napr. Binance, Coinbase) a preveďte ju do svojej decentralizovanej peňaženky.",
+      "step_2": "Na úhradu sieťových transakčných poplatkov budete potrebovať určitý obnos pôvodnej meny (napr. ETH pre Ethereum)."
+    },
+    "connect_wallet": {
+      "title": "Pripojiť peňaženku k stránke predpredaja",
+      "step_1": "Prejsť na stránku predpredaja Virtu Pace.",
+      "step_2": "Kliknutím na \"Pripojiť\" peňaženku a vyberte poskytovateľa peňaženky (napr. MetaMask, Trust Wallet).",
+      "step_3": "Autorizácia pripojenia prostredníctvom aplikácie peňaženky."
+    },
+    "complete_payment": {
+      "title": "Dokončenie platby",
+      "step_1": "Označte token, ktorý chcete použiť na nákup, a zadajte sumu.",
+      "step_2": "Potvrdiť transakciu v peňaženke, zistiť sieťové poplatky a podrobnosti.",
+      "step_3": "Po potvrdení budú zakúpené tokeny Virtu Pace rezervované až do termínu zaradenia do zoznamu."
+    },
+    "claim_tokens": {
+      "title": "Nárok na tokeny pri registrácii",
+      "step_1": "Po zaregistrovaní do zoznamu môžete znova navštíviť predpredajnú platformu, znovu pripojiť peňaženku a požiadať o zakúpené tokeny Virtu Pace."
+    }
+  },
+  "credit_card_payment": {
+    "title": "Platba kreditnou kartou",
+    "description": "Pri platbách kreditnou kartou ponúkame dve možnosti: užívatelia sa môžu prihlásiť pomocou služby Google alebo e-mailu, prípadne môžu pripojiť existujúcu decentralizovanú peňaženku.",
+    "choose_login_method": {
+      "title": "Výber metódy prihlásenia",
+      "step_1": "Na stránke predpredaja Virtu Pace vyberte položku \"Platba kartou\"..",
+      "step_2": "Prihlásenie pomocou služby Google alebo e-mailu alebo pripojenie existujúcej decentralizovanej peňaženky (napr. MetaMask, Trust Wallet).",
+      "step_3": "Pripojením peňaženky bude táto peňaženka po dokončení nákupu slúžiť ako cieľová adresa pre vaše tokeny z predpredaja."
+    },
+    "complete_payment_card": {
+      "title": "Dokončiť platbu kartou",
+      "step_1": "Zadajte množstvo tokenov Virtu Pace, ktoré chcete kúpiť, a uveďte údaje zo svojej kreditnej karty.",
+      "step_2": " Potvrďte transakciu, po ktorej sa zakúpené tokeny objavia na účte prepojenom s vaším prihlasovacím menom Google/e-mailom alebo decentralizovanou peňaženkou."
+    },
+    "claim_tokens_card": {
+      "title": "Nárok na tokeny pri registrácii",
+      "step_1": "V deň registrácie do zoznamu sa znova prihláste (buď cez Google/e-mail, alebo cez prepojenú peňaženku) a požiadajte o svoje tokeny.",
+      "step_2": "Ak ste použili Google/e-mail, môžete svoje tokeny preniesť z automaticky vygenerovanej peňaženky do decentralizovanej peňaženky podľa vlastného výberu (napr. MetaMask, Trust Wallet)."
+    }
+  },
+  "Terms and Conditions": "Podmienky a pravidlá",
+  "Privacy Policy": "Zásady ochrany osobných údajov",
+  "Refund Policy": "Pravidlá vrátenia peňazí",
+  "Disclaimer": "Vyhlásenie o odmietnutí zodpovednosti",
+  "About Us": "O nás",
+  "News": "Novinky",
+  "Latest Updates and Insights": "Najnovšie informácie a postrehy",
+  "news_desc": "Sledujte najnovšie informácie, trendy a edukačný materiál od spoločnosti Virtu Pace.",
+  "Read more": "Zobraziť viac",
+  "project_announcements": "Oznámenia o projekte",
+  "project_announcements_description": "Získajte ako prví informácie o dôležitých míľnikoch, partnerstvách a nadchádzajúcich podujatiach.",
+  "behind_the_scenes": "Zo zákulisia",
+  "behind_the_scenes_description": "Spoznajte proces vývoja, náš tím a technológiu, ktorá poháňa Virtu Pace.",
+  "educational_content": "Edukačný materiál",
+  "educational_content_description": "Prehliadnite si články, ktoré vysvetľujú koncepty blockchainu, herné mechanizmy a tipy pre zapojenie sa do ekosystému Virtu Pace.",
+  "community_spotlights": "Komunitné informácie",
+  "community_spotlights_description": "Vyzdvihnutie príspevkov a príbehov členov našej komunity.",
+  "follow_blog": "Sledovať náš blog",
+  "follow_blog_description": "Sledujte dianie v Virtu Pace a vyvíjajúce sa prostredie blockchainových hier.",
+  "dashboard": {
+    "title": "Informačný panel",
+    "your_balance": "Váš zostatok",
+    "total_holders": "Celkový počet držiteľov",
+    "total_sold": "Celkový počet predaných kusov",
+    "holding_rank": "Postavenie v holdingu",
+    "top_leaderboard": "Top rebríček",
+    "your_swaps": "Vaše swapy",
+    "your_referrals": "Vaša sieť odporúčaní"
+  }
+}

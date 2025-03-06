@@ -1,0 +1,82 @@
+{
+  "how_to_buy_title": "Miten ostaa Virtu Pace -tokeneita",
+  "how_to_buy_desc": "Ennakkomyyntisivumme tukee maksuja sekä hajautetuilla lompakkotapahtumilla, joissa käytetään eri kryptovaluuttoja ja luottokorttimaksuja, mikä tarjoaa joustavuutta kaikille käyttäjille. Luottokorttiostoksia varten käyttäjät voivat joko kirjautua sisään Googlen tai sähköpostin kautta tai liittää suoraan olemassa olevan hajautetun lompakon, jos he on jo sellainen.",
+  "decentralized_wallet_payment": {
+    "title": "Maksaminen hajautetuilla lompakoilla (Metamask, Trust Wallet)",
+    "description": "ETH:lla, BNB:llä, POL:lla, SOL:lla, TRX:llä tai USDT:llä (saatavilla Ethereum-, BSC- ja Polygon-ketjuissa) maksavilta vaaditaan hajautettu lompakko.",
+    "setup_wallet": {
+      "title": "Määritä lompakkosi",
+      "step_1": "Asenna hajautettu lompakko, kuten MetaMask tai Trust Wallet, mobiililaitteeseesi tai selaimen laajennuksena."
+    },
+    "fund_wallet": {
+      "title": "Rahoita lompakkoasi",
+      "step_1": "Varmista, että lompakossasi on riittävästi valittua kryptovaluuttaa (esim. ETH, BNB). Osta se keskitetystä pörssistä (esim. Binance, Coinbase) ja siirrä se hajautettuun lompakkoosi.",
+      "step_2": "Tarvitset pienen määrän kotimaista valuuttaa (esim. ETH Ethereumille) kattaaksesi verkon transaktiomaksut."
+    },
+    "connect_wallet": {
+      "title": "Yhdistä lompakko ennakkomyyntisivulle",
+      "step_1": "Käy Virtu Pacen ennakkomyyntisivulla.",
+      "step_2": "Napsauta ”Yhdistä” Lompakko ja valitse lompakon tarjoaja (esim. MetaMask, Trust Wallet).",
+      "step_3": "Hyväksy yhteys lompakkosovelluksesi kautta."
+    },
+    "complete_payment": {
+      "title": "Viimeistele maksu",
+      "step_1": "Valitse token, jota haluat käyttää ostamiseen, ja määritä summa.",
+      "step_2": "Vahvista maksutapahtuma lompakossasi ja tarkista verkkomaksut ja verkkotiedot.",
+      "step_3": "Vahvistuksen jälkeen ostamasi Virtu Pace -tokenit varataan sinulle listautumistapahtumaan asti."
+    },
+    "claim_tokens": {
+      "title": "Lunasta tokenit listautumisen yhteydessä",
+      "step_1": "Listautumisen jälkeen voit palata ennakkomyyntialustalle, yhdistää lompakkosi uudelleen ja lunastaa ostamasi Virtu Pace -tokenit."
+    }
+  },
+  "credit_card_payment": {
+    "title": "Maksaminen luottokorttia käyttäen",
+    "description": "Luottokorttimaksuja varten tarjoamme kaksi vaihtoehtoa: käyttäjät voivat kirjautua sisään Googlen tai sähköpostin kautta tai halutessaan yhdistää olemassa olevan hajautetun lompakon.",
+    "choose_login_method": {
+      "title": "Valitse sisäänkirjautumistapa",
+      "step_1": "Valitse Virtu Pacen ennakkomyyntisivulla ”Maksa kortilla”.",
+      "step_2": "Voit joko kirjautua sisään Googlen tai sähköpostin kautta tai yhdistää olemassa olevan hajautetun lompakkosi. ",
+      "step_3": "Jos yhdistät lompakkosi, se toimii ennakkomyytävien tokenien määränpäänä, kun osto on suoritettu."
+    },
+    "complete_payment_card": {
+      "title": "Viimeistele maksu kortilla",
+      "step_1": "Kirjoita haluamasi Virtu Pace -tokenien määrä ja anna luottokorttitietosi.",
+      "step_2": " Vahvista maksutapahtuma, minkä jälkeen ostamasi tokenit näkyvät tililläsi, joka on yhdistetty Google-/ sähköpostitunnukseesi tai hajautettuun lompakkoon."
+    },
+    "claim_tokens_card": {
+      "title": "Lunasta tokenit listautumisessa",
+      "step_1": "Listautumispäivänä kirjaudu takaisin sisään (joko Googlen/sähköpostin tai yhdistetyn lompakon kautta) lunastaaksesi tokenisi.",
+      "step_2": "Jos käytit Googlea/sähköpostia, voit siirtää tokenit automaattisesti luodusta lompakosta valitsemaasi hajautettuun lompakkoon (esim. MetaMask, Trust Wallet)."
+    }
+  },
+  "Terms and Conditions": "Ehdot ja edellytykset",
+  "Privacy Policy": "Tietosuojakäytäntö",
+  "Refund Policy": "Takaisinmaksukäytäntö",
+  "Disclaimer": "Vastuuvapauslauseke",
+  "About Us": "Tietoa meistä",
+  "News": "Uutiset",
+  "Latest Updates and Insights": "Uusimmat päivitykset ja näkemykset",
+  "news_desc": "Pysy ajan tasalla Virtu Pacen viimeisimmistä uutisista, kehityksestä ja koulutussisällöstä.",
+  "Read more": "Lue lisää",
+  "project_announcements": "Projektin ilmoitukset",
+  "project_announcements_description": "Saat ensimmäisenä tiedon tärkeistä virstanpylväistä, kumppanuuksista ja tulevista tapahtumista.",
+  "behind_the_scenes": "Kulissien takana",
+  "behind_the_scenes_description": "Hanki näkemyksiä kehitysprosessista, tapaa tiimimme ja opi Virtu Pace -teknologiasta",
+  "educational_content": "Koulutussisältö",
+  "educational_content_description": "Tutustu artikkeleihin, jotka selittävät lohkoketjun käsitteitä, pelimekaniikkaa ja vinkkejä osallistumiseen Virtu Pace -ekosysteemiin.",
+  "community_spotlights": "Yhteisön valokeilat",
+  "community_spotlights_description": "Korostamme yhteisön jäsenten panoksia ja tarinoita.",
+  "follow_blog": "Seuraa blogiamme",
+  "follow_blog_description": "Pidä sormesi Virtu Pacen ja lohkoketjupelaamisen kehittyvän maiseman sykkeessä.",
+  "dashboard": {
+    "title": "Kojelauta",
+    "your_balance": "Saldosi",
+    "total_holders": "Omistajien kokonaismäärä",
+    "total_sold": "Myyty kokonaismäärä",
+    "holding_rank": "Sijoituksen sijoitusarvo",
+    "top_leaderboard": "Parhaiden lista\"",
+    "your_swaps": "Sinun vaihdot\"",
+    "your_referrals": "Sinun suosituksesi"
+  }
+}

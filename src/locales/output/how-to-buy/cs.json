@@ -1,0 +1,82 @@
+{
+  "how_to_buy_title": "Jak koupit tokeny Virtu Pace",
+  "how_to_buy_desc": "Na�e p?edprodejn� str�nka podporuje platby prost?ednictv�m decentralizovan�ch pen?�enkov�ch transakc� s vyu�it�m r?zn�ch kryptom?n i platby kreditn� kartou, co� zaru?uje flexibilitu v�em u�ivatel?m. Pro n�kupy kreditn� kartou se u�ivatel� mohou bu? p?ihl�sit pomoc� Googlu nebo e-mailu, nebo p?�mo p?ipojit st�vaj�c� decentralizovanou pen?�enku, pokud ji� n?jakou maj�.",
+  "decentralized_wallet_payment": {
+    "title": "Platba pomoc� decentralizovan�ch pen?�enek (Metamask, Trust Wallet)",
+    "description": "Pro ty, kte?� plat� ETH, BNB, POL, SOL, TRX nebo USDT (dostupn� na blockchainu Ethereum, BSC a Polygon), je vy�adov�na decentralizovan� pen?�enka.",
+    "setup_wallet": {
+      "title": "Nastavit pen?�enku",
+      "step_1": "Nainstalujte si decentralizovanou pen?�enku, nap?�klad MetaMask nebo Trust Wallet, do sv�ho mobiln�ho za?�zen� nebo jako roz��?en� prohl�e?e."
+    },
+    "fund_wallet": {
+      "title": "Financovat pen?�enku",
+      "step_1": "Ujist?te se, �e m�te ve sv� pen?�ence dostatek vybran� kryptom?ny (nap?. ETH, BNB). Nakupte ji na centralizovan� burze (nap?. Binance, Coinbase) a p?eve?te ji do sv� decentralizovan� pen?�enky.",
+      "step_2": "Budete pot?ebovat mal� mno�stv� nativn� m?ny (nap?. ETH pro Ethereum) na pokryt� poplatk? za s�?ov� transakce."
+    },
+    "connect_wallet": {
+      "title": "P?ipojit pen?�enku k p?edprodejn� str�nce",
+      "step_1": "Nav�tivte p?edprodejn� str�Virtu Pace One.",
+      "step_2": "Klikn?te na \"P?ipojit\" Pen?�enka a vyberte poskytovatele pen?�enky (nap?. MetaMask, Trust Wallet).",
+      "step_3": "Autorizujte p?ipojen� prost?ednictv�m aplikace pen?�enky."
+    },
+    "complete_payment": {
+      "title": "Dokon?it platbu",
+      "step_1": "Vyberte token, kter� chcete pou��t pro n�kup, a zadejte ?�stku.",
+      "step_2": "Potvr?te transakci ve sv� pen?�ence a zkontrolujte s�?ov� poplatky a podrobnosti.",
+      "step_3": "Po potvrzen� budou zakoupen� tokVirtu Pace One pro v�s rezervov�ny a� do spu�t?n� na burze."
+    },
+    "claim_tokens": {
+      "title": "N�rok na tokeny p?i zalistov�n�",
+      "step_1": "Po zalistov�n� m?�ete znovu nav�t�vit p?edprodejn� platformu, znovu p?ipojit pen?�enku a uplatnit n�rok na zVirtu Paceokeny Virtu Pace."
+    }
+  },
+  "credit_card_payment": {
+    "title": "Platba kreditn� kartou",
+    "description": "Pro platbu kreditn� kartou nab�z�me dv? mo�nosti: u�ivatel� se mohou p?ihl�sit pomoc� Googlu nebo e-mailu, nebo p?ipojit existuj�c� decentralizovanou pen?�enku, pokud to up?ednost?uj�.",
+    "choose_login_method": {
+      "title": "Vybrat si zp?sob p?ihl�en�",
+      "step_1": "Na str�nce p?edprodejVirtu Pacene vyberte mo�nost \"Platit kartou\".",
+      "step_2": "M?�ete si vybrat, zda se p?ihl�s�te pomoc� Googlu nebo e-mailu, nebo zda p?ipoj�te svou st�vaj�c� decentralizovanou pen?�enku (nap?. MetaMask, Trust Wallet).",
+      "step_3": "Pokud p?ipoj�te svou pen?�enku, bude po dokon?en� n�kupu fungovat jako c�lov� m�sto pro va�e p?edprodejn� tokeny."
+    },
+    "complete_payment_card": {
+      "title": "Dokon?it platbu kartou",
+      "step_1": "Zadejte mno�stv� tokVirtu Pace One, kter� si p?ejete koupit, a uve?te �daje o sv� platebn� kart?.",
+      "step_2": " Potvr?te transakci, na?e� se zakoupen� tokeny objev� na �?tu propojen�m s va��m p?ihl�en�m ke Googlu/e-mailu nebo decentralizovan� pen?�ence."
+    },
+    "claim_tokens_card": {
+      "title": "N�rok na tokeny p?i zalistov�n�",
+      "step_1": "V den spu�t?n� na burze se znovu p?ihlaste (bu? prost?ednictv�m Googlu/emailu, nebo p?ipojen� pen?�enky) a uplatn?te n�rok na tokeny.",
+      "step_2": "Pokud jste pou�ili Google/email, m?�ete sv� tokeny p?ev�st z automaticky vygenerovan� pen?�enky do decentralizovan� pen?�enky dle vlastn�ho v�b?ru (nap?. MetaMask, Trust Wallet)."
+    }
+  },
+  "Terms and Conditions": "Podm�nky a pravidla",
+  "Privacy Policy": "Z�sady ochrany osobn�ch �daj?",
+  "Refund Policy": "Z�sady vr�cen� pen?z",
+  "Disclaimer": "Odm�tnut� odpov?dnosti",
+  "About Us": "O n�s",
+  "News": "Novinky",
+  "Latest Updates and Insights": "Nejnov?j�� aktualizace a informace",
+  "news_desc": "Sledujte nejnov?j�� informace, v�voj a vzd?l�vacVirtu Pacereal One.",
+  "Read more": "P?e?t?te si v�ce",
+  "project_announcements": "Ozn�men� o projektech",
+  "project_announcements_description": "Bu?te prvn�, kdo se dozv� o d?le�it�ch miln�c�ch, partnerstv�ch a nadch�zej�c�ch ud�lostech.",
+  "behind_the_scenes": "Z�kulis�",
+  "behind_the_scenes_description": "Nahl�dn?te do procesu v�voje, seznamte se s na��m t�mem a poznejte technologii pVirtu PaceVirtu Pace.",
+  "educational_content": "Vzd?l�vac� obsah",
+  "educational_content_description": "Prozkoumejte ?l�nky, kter� vysv?tluj� koncepty blockchainu, hern� mechanismy a tipy pro �?ast v eVirtu PaceVirtu Pace.",
+  "community_spotlights": "Nejd?le�it?j�� ud�losti v komunit?",
+  "community_spotlights_description": "Upozorn?n� na p?�sp?vky a p?�b?hy ?len? na�� komunity.",
+  "follow_blog": "Sledujte n� blog",
+  "follow_blog_description": "M?jte p?ehled o d?n� Virtu Pacene a vyv�jej�c�ho se prost?ed� blockchainov�ch her.",
+  "dashboard": {
+    "title": "?�dic� panel",
+    "your_balance": "V� z?statek",
+    "total_holders": "Celkov� po?et dr�itel?",
+    "total_sold": "Celkem prod�no",
+    "holding_rank": "Po?ad� dr�by",
+    "top_leaderboard": "Top �eb?�?ek",
+    "your_swaps": "Va�e v�m?ny",
+    "your_referrals": "Va�e doporu?en�"
+  }
+}

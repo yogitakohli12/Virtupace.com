@@ -1,0 +1,82 @@
+{
+  "how_to_buy_title": "Come comprare gettoni Virtu Pace",
+  "how_to_buy_desc": "La nostra pagina di prevendita supporta i pagamenti sia attraverso transazioni con portafogli decentralizzati che utilizzano varie criptovalute, sia attraverso pagamenti con carta di credito, offrendo flessibilità a tutti gli utenti. Per gli acquisti con carta di credito, gli utenti possono effettuare l'accesso con Google o con l'e-mail oppure collegare direttamente un portafoglio decentralizzato esistente, se ne possiedono già uno.",
+  "decentralized_wallet_payment": {
+    "title": " Pagamento tramite portafogli decentralizzati (Metamask, Trust Wallet)",
+    "description": "Per chi paga con ETH, BNB, POL, SOL, TRX o USDT (disponibili sulle catene Ethereum, BSC e Polygon), è necessario un portafoglio decentralizzato.",
+    "setup_wallet": {
+      "title": "Imposta il tuo portafogli",
+      "step_1": "Installa un portafogli decentralizzato come MetaMask o Trust Wallet sul tuo dispositivo come estensione del browser."
+    },
+    "fund_wallet": {
+      "title": "Ricarica il tuo portafogli",
+      "step_1": "Verifica di avere una quantità sufficiente della criptovaluta selezionata (ad esempio ETH, BNB) nel tuo portafogli. Acquistala su una piattaforma di scambio centralizzata (ad esempio Binance, Coinbase) e trasferiscila sul tuo portafogli decentralizzato.",
+      "step_2": "È necessaria una piccola quantità di valuta nativa (come ETH per Ethereum) per coprire le spese di transazione della rete."
+    },
+    "connect_wallet": {
+      "title": "Connetti il portafogli alla pagina di prevendita",
+      "step_1": "Visita la pagina di prevendita di Virtu Pace.",
+      "step_2": "Clicca \"Connetti\" portafogli e seleziona il tuo provider per il portafogli (ad esempio MetaMask, Trust Wallet).",
+      "step_3": "Autorizza la connessione tramite l'app del portafogli."
+    },
+    "complete_payment": {
+      "title": "Completa il pagamento",
+      "step_1": "Seleziona il gettone che desideri utilizzare per l'acquisto e specifica l'importo.",
+      "step_2": "Conferma la transazione nel tuo portafogli, esaminando le tariffe e i dettagli della rete.",
+      "step_3": "Dopo la conferma, i gettoni Virtu Pace acquistati saranno riservati per te fino all'evento di listing."
+    },
+    "claim_tokens": {
+      "title": "Richiesta dei gettoni al listing",
+      "step_1": "Dopo il listing, è possibile accedere alla piattaforma di prevendita, ricollegare il proprio portafoglio e richiedere i gettoni Virtu Pace acquistati."
+    }
+  },
+  "credit_card_payment": {
+    "title": "Pagamento con carta di credito",
+    "description": "Per i pagamenti con carta di credito, offriamo due opzioni: gli utenti possono accedere con Google o con l'e-mail, oppure, se preferiscono, collegare un portafoglio decentralizzato esistente.",
+    "choose_login_method": {
+      "title": "Scegli il tuo metodo di accesso",
+      "step_1": "Sulla pagina di prevendita di Virtu Pace, seleziona \"Paga con carta\".",
+      "step_2": "Si può scegliere di accedere con Google o con l'e-mail o di collegare il proprio portafoglio decentralizzato esistente. (ad esempio MetaMask, Trust Wallet).",
+      "step_3": "Se si collega il proprio portafoglio, questo fungerà da destinazione per i gettoni della prevendita una volta completato l'acquisto."
+    },
+    "complete_payment_card": {
+      "title": "Completa il pagamento con carta",
+      "step_1": "Indica l'importo dei gettoni Virtu Pace che desideri acquistare e fornisci i dati della carta di credito.",
+      "step_2": " Conferma la transazione, dopodiché i gettoni acquistati appariranno nel conto collegato al tuo accesso Google/email o al tuo portafogli decentralizzato."
+    },
+    "claim_tokens_card": {
+      "title": "Richiesta dei gettoni al Listing",
+      "step_1": "Il giorno del listing, effettua nuovamente l'accesso (tramite Google/email o il portafoglio collegato) per richiedere i gettoni.",
+      "step_2": "Se hai usato Google/l'email, è possibile trasferire i gettoni dal portafoglio autogenerato a un portafoglio decentralizzato a tua scelta (come MetaMask, Trust Wallet)."
+    }
+  },
+  "Terms and Conditions": "Termini e condizioni",
+  "Privacy Policy": "Informativa sulla privacy",
+  "Refund Policy": "Politica di rimborso",
+  "Disclaimer": "Dichiarazione di non responsabilità",
+  "About Us": "Chi siamo",
+  "News": "Novità",
+  "Latest Updates and Insights": "Ultimi aggiornamenti e novità",
+  "news_desc": "Rimani aggiornato sulle ultime notizie, gli sviluppi e i contenuti educativi di Virtu Pace.",
+  "Read more": "Per saperne di più",
+  "project_announcements": "Annunci di nuovi progetti",
+  "project_announcements_description": "Ricevi per primo informazioni su importanti obiettivi, collaborazioni ed eventi futuri.",
+  "behind_the_scenes": "Dietro le quinte",
+  "behind_the_scenes_description": "Scopri il processo di sviluppo, incontra il nostro team e impara a conoscere la tecnologia che sostiene Virtu Pace.",
+  "educational_content": "Contenuti educativi",
+  "educational_content_description": "Esplora gli articoli che spiegano i concetti di blockchain, le meccaniche di gioco e i consigli per partecipare all'ecosistema Virtu Pace.",
+  "community_spotlights": "Riflettori sulla community",
+  "community_spotlights_description": "In evidenza i contributi e le storie dei membri della nostra community.",
+  "follow_blog": "Segui il nostro blog",
+  "follow_blog_description": "Stai sempre aggiornato su Virtu Pace e sul panorama in evoluzione del gaming blockchain.",
+  "dashboard": {
+    "title": "Schermata iniziale",
+    "your_balance": "Il tuo saldo",
+    "total_holders": "Totale dei possessori",
+    "total_sold": "Totale venduto",
+    "holding_rank": "Classifica di partecipazione",
+    "top_leaderboard": "Classifica principale",
+    "your_swaps": "I tuoi scambi",
+    "your_referrals": "I tuoi referenti"
+  }
+}

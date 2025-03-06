@@ -1,0 +1,82 @@
+{
+  "how_to_buy_title": "Comment Acheter des Jetons Virtu Pace",
+  "how_to_buy_desc": "Notre page de prévente prend en charge les paiements par portefeuille décentralisé utilisant diverses crypto-monnaies et les paiements par carte de crédit, offrant ainsi une certaine flexibilité à tous les utilisateurs. Pour les achats par carte de crédit, les utilisateurs peuvent soit se connecter à l'aide de Google ou de leur adresse e-mail, soit se connecter directement à un portefeuille décentralisé existant s'ils en possèdent déjà un.",
+  "Payment_decentralized_wallet": {
+    "title": "Paiement à l'Aide du Portefeuille Décentralisé (Metamask, Trust Wallet)",
+    "description": "Pour ceux qui paient avec ETH, BNB, POL, SOL, TRX, ou USDT (disponible sur les chaînes Ethereum, BSC, et Polygon), un portefeuille décentralisé est nécessaire.",
+    "setup_wallet": {
+      "title": "Configurer Votre Portefeuille",
+      "step_1": "Installez un portefeuille décentralisé tel que MetaMask ou Trust Wallet sur votre appareil mobile ou en tant qu'extension de navigateur."
+    },
+    "fund_wallet": {
+      "title": "Financer Votre Portefeuille",
+      "step_1": "Assurez-vous d'avoir suffisamment de la crypto-monnaie sélectionnée (par exemple, ETH, BNB) dans votre portefeuille. Achetez-la sur un échange centralisé (par exemple, Binance, Coinbase) et transférez-la dans votre portefeuille décentralisé.",
+      "step_2": "Vous aurez besoin d'une petite quantité de la monnaie locale (par exemple, ETH pour Ethereum) pour couvrir les frais de transaction du réseau."
+    },
+    "connect_wallet": {
+      "title": "Connecter le Portefeuille à la Page de Prévente",
+      "step_1": "Visitez la page de prévente de Virtu Pace.",
+      "step_2": "Cliquez \"Connecter\" le portefeuille et choisissez votre fournisseur de portefeuille (par exemple, MetaMask, Trust Wallet).",
+      "step_3": "Autorisez la connexion via l'application de votre portefeuille."
+    },
+    "complete_payment": {
+      "title": "Compléter le Paiement",
+      "step_1": "Sélectionnez le jeton que vous souhaitez utiliser pour l'achat et indiquez le montant.",
+      "step_2": "Confirmez la transaction dans votre portefeuille, en passant en revue les frais et les détails du réseau.",
+      "step_3": "Après confirmation, les jetons Virtu Pace que vous avez achetés vous seront réservés jusqu'à l'événement de cotation."
+    },
+    "claim_tokens": {
+      "title": "Réclamer des jetons lors de la cotation",
+      "step_1": "Après la cotation, vous pouvez revisiter la page de présouscription, reconnecter votre portefeuille et réclamer les jetons Virtu Pace que vous avez achetés."
+    }
+  },
+  "credit_card_payment": {
+    "title": "Paiement par Carte de Crédit",
+    "description": "Pour les paiements par carte de crédit, nous offrons deux options : les utilisateurs peuvent se connecter avec Google ou leur email, ou connecter un portefeuille décentralisé existant s'ils préfèrent.",
+    "choose_login_method": {
+      "title": "Choisisser Votre Méthode de Connexion",
+      "step_1": "Sur la page de prévente de Virtu Pace, sélectionnez \"Payer avec la carte\".",
+      "step_2": "Vous pouvez choisir de vous connecter avec Google ou votre email ou de connecter votre portefeuille décentralisé existant (par exemple, MetaMask, Trust Wallet).",
+      "step_3": "Si vous connectez votre portefeuille, il servira de destination pour vos jetons de présouscription une fois l'achat terminé."
+    },
+    "complete_payment_card": {
+      "title": "Compléter le Paiement par Carte",
+      "step_1": "Saisissez le montant des jetons Virtu Pace que vous souhaitez acheter et indiquez les détails de votre carte de crédit.",
+      "step_2": " Confirmez la transaction, après quoi vos jetons achetés apparaîtront dans le compte lié à votre connexion Google/email ou à votre portefeuille décentralisé."
+    },
+    "claim_tokens_card": {
+      "title": "Réclamer des Jetons à la Cotation",
+      "step_1": "Le jour de la cotation, reconnectez-vous (soit via Google/email, soit via votre portefeuille connecté) pour réclamer vos jetons.",
+      "step_2": "Si vous avez utilisé Google/email, vous pouvez transférer vos jetons du portefeuille généré automatiquement vers un portefeuille décentralisé de votre choix (par exemple, MetaMask, Trust Wallet)."
+    }
+  },
+  "Terms and Conditions": "Termes et Conditions",
+  "Privacy Policy": "Politique de Confidentialité",
+  "Refund Policy": "Politique de Remboursement",
+  "Disclaimer": "Avis de non-responsabilité",
+  "About Us": "A propos de nous",
+  "News": "Actualités",
+  "Latest Updates and Insights": "Dernières Mises à Jour et Perspectives",
+  "news_desc": "Restez à jour avec les dernières nouvelles, les développements et le contenu éducatif de Virtu Pace.",
+  "Read more": "En savoir plus",
+  "project_announcements": "Annonces de Projet",
+  "project_announcements_description": "Soyez les premiers à être informés des étapes importantes, des partenariats et des événements à venir.",
+  "behind_the_scenes": "Dans les Coulisses",
+  "behind_the_scenes_description": "Découvrez le processus de développement, rencontrez notre équipe et apprenez-en plus sur la technologie qui alimente Virtu Pace.",
+  "educational_content": "Contenu Éducatif",
+  "educational_content_description": "Explorez les articles qui expliquent les concepts de la blockchain, les mécanismes de jeu et les conseils pour participer à l'écosystème de Virtu Pace.",
+  "community_spotlights": "Annonces de la Communauté",
+  "community_spotlights_description": "Mise en avant des contributions et des histoires des membres de notre communauté.",
+  "follow_blog": "Suivez notre blog",
+  "follow_blog_description": "Restez à l'écoute de Virtu Pace et de l'évolution du paysage des jeux en blockchain.",
+  "dashboard": {
+    "title": "Tableau de bord",
+    "your_balance": "Votre Solde",
+    "total_holders": "Total des Détenteurs",
+    "total_sold": "Total vendu",
+    "holding_rank": "Rang de Détention",
+    "top_leaderboard": "Top Leaderboard",
+    "your_swaps": "Vos Échanges",
+    "your_referrals": "Vos Références"
+  }
+}

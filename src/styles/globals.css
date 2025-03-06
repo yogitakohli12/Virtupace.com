@@ -1,0 +1,819 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Space+Grotesk:wght@300..700&display=swap');
+
+/* Import Rubik and Rajdhani fonts from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;700&family=Rajdhani:wght@300;400;500;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Glitch&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Glitch&family=Iosevka:wght@400;700&display=swap');
+
+@import url('https://example.com/path-to-the-last-shuriken.css');
+
+/* Import Samsung Sharp Sans font from an external URL */
+@import url('https://example.com/path/to/samsung-sharp-sans.css');
+
+/* Or if it's hosted locally, use a relative URL */
+@import url('/fonts/samsung-sharp-sans.css');
+
+@font-face {
+  font-family: 'Rubik';
+  src: url('/fonts/Rubik-Light.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Rubik Glitch';
+  src: url('/fonts/Rubik-Bold.ttf') format('ttf');
+  font-weight: 500;
+  /* font-style: normal; */
+}
+
+@font-face {
+  font-family: 'Rajdhani';
+  src: url('/fonts/rajdhani-regular.ttf') format('ttf');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'The Last Shuriken';
+  src: url('/public/fonts/the-last-shuriken-the-last-shuriken-700.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'The Last Shuriken';
+  src: url('/public/fonts/the-last-shuriken-the-last-shuriken-700.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'The Last Shuriken';
+  src: url('/public/fonts/the-last-shuriken-the-last-shuriken-700.otf') format('otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+:root {
+  --background: #ffffff;
+  --foreground: black;
+}
+
+/* VIRTUPACE */
+
+body {
+  background-color: black !important;
+  color: white !important;
+}
+
+.homecontant{
+  animation: zoomtext 2s linear ;
+}
+@keyframes zoomtext {
+  0%{
+    scale: 0;
+  }
+  100%{
+    scale: 1;
+  }
+}
+.homesubcontant{
+  animation: zoomtext 2s linear ;
+}
+
+.virtucard{
+  transform: translateX(0px);
+}
+.virtucard:nth-child(1){
+  transform: translateX(50px);
+}
+.virtucard:nth-child(3){
+  transform: translateX(-50px);
+}
+.virtucard:nth-child(4){
+  transform: translateX(-100px);
+}
+.virtucards:hover .virtucardhead{
+  color: white !important;
+}
+.virtucards:hover .virtucard:nth-child(1){
+  transform: translateX(0px); 
+  background-image: linear-gradient( to right, rgb(40, 19, 60), rgba(91, 79, 104, 0.922), rgb(51, 73, 42));
+  cursor: pointer;
+  animation: cards 0.7s ease-in-out;
+}
+.virtucards:hover .virtucard:nth-child(2),.virtucards:hover .virtucard:nth-child(4){
+  transform: translateY(-20px); 
+  background-image: linear-gradient( to right, rgb(40, 19, 60), rgba(91, 79, 104, 0.922), rgb(51, 73, 42));
+  cursor: pointer;
+  animation: cardssend 0.7s ease-in-out;
+}
+
+.virtucard:hover .virtucardhead{
+  color: white !important;
+}
+@keyframes cards {
+  0%,50%,100%{
+    transform: translateX(0px);
+  }
+
+  25%,75%{
+    transform: translateX(20px);
+  }
+}
+
+@keyframes cardssend {
+  0%,50%,100%{
+    transform: translateY(10px);
+  }
+  25%,75%{
+    transform: translateY(-10px);
+  }
+}
+.virtucards:hover .virtucard:nth-child(3){
+  transform: translateY(20px); 
+  background-image: linear-gradient( to right, rgb(40, 19, 60), rgba(91, 79, 104, 0.922), rgb(51, 73, 42));
+  cursor: pointer;
+  animation: cardsthird 0.7s ease-in-out;
+}
+@keyframes cardsthird {
+  0%,50%,100%{
+    transform: translateX(10px);
+  }
+
+  25%,75%{
+    transform: translateX(0px);
+  }
+}
+
+.blockchaincard:nth-child(1):hover ,.blockchaincard:nth-child(2):hover,.blockchaincard:nth-child(3):hover,.blockchaincard:nth-child(4):hover{
+  scale: 1.1;
+  box-shadow: 0px 0px 20px white;
+  transition: all 0.5s ease-in-out;
+ }
+
+ 
+ .blockchaincard:nth-child(1) {
+  transform: translateX(200px);
+  transition: transform 0.5s ease-in-out, opacity 0.5s ease-in-out;
+  animation: movecard1 1s ease-in-out forwards;
+  animation-timeline: view();
+  animation-range: entry 10% cover 60%;
+}
+
+@keyframes movecard1 {
+  0% {
+      transform: translateX(200px);
+      opacity:1;
+  }
+  50% {
+      transform: translateX(100px);
+      opacity: 1;
+  }
+  100% {
+      transform: translateX(0px);
+      opacity: 1;
+  }
+}
+.blockchaincard:nth-child(2) {
+  transform: translateX(100px);
+  transition: transform 0.6s ease-in-out, opacity 0.6s ease-in-out;
+  opacity: 0;
+  animation: movecard2 1s ease-in-out forwards;
+  animation-timeline: view();
+  animation-range: entry 10% cover 60%;
+}
+
+@keyframes movecard2 {
+  0% {
+    transform: translateX(100px);
+    opacity: 1;
+  }
+  50% {
+    transform: translateX(50px);
+    opacity: 1;
+  }
+  100% {
+    transform: translateX(0px);
+    opacity: 1;
+  }
+}
+
+.blockchaincard:nth-child(3) {
+  transform: translateX(-100px);
+  transition: transform 0.6s ease-in-out, opacity 0.6s ease-in-out;
+  opacity: 0;
+  animation: movecard3 1s ease-in-out forwards;
+  animation-timeline: view();
+  animation-range: entry 10% cover 60%;
+}
+
+@keyframes movecard3 {
+  0% {
+    transform: translateX(-100px);
+    opacity: 1;
+  }
+  50% {
+    transform: translateX(-50px);
+    opacity: 1;
+  }
+  100% {
+    transform: translateX(0px);
+    opacity: 1;
+  }
+}
+
+.blockchaincard:nth-child(4) {
+  transform: translateX(-200px);
+  transition: transform 0.6s ease-in-out, opacity 0.6s ease-in-out;
+  opacity: 0;
+  animation: movecard4 1s ease-in-out forwards;
+  animation-timeline: view();
+  animation-range: entry 10% cover 60%;
+}
+
+@keyframes movecard4 {
+  0% {
+    transform: translateX(-200px);
+    opacity: 1;
+  }
+  50% {
+    transform: translateX(-100px);
+    opacity: 1;
+  }
+  100% {
+    transform: translateX(0px);
+    opacity: 1;
+  }
+}
+
+@keyframes phsesheadanim {
+  0%{
+    text-shadow: 50px 0px 0px grey, 90px 0px 0px rgb(52, 49, 49), 120px 0px 0px rgb(23, 21, 21);
+  }
+  100%{
+    text-shadow: 3px 0px 0px grey, 3px 0px 0px rgb(52, 49, 49), 0px 0px 0px rgb(23, 21, 21);
+  }
+}
+.iconbeckground:hover{
+  background-color: rgb(5, 134, 134) !important;
+  border-radius: 50% !important;
+}
+
+@keyframes blink {
+  0% { opacity: 1; }
+  50% { opacity: 0.2; }
+  100% { opacity: 1; }
+}
+
+.dot {
+  animation: blink 1s infinite;
+}
+
+
+@media (min-width:320px ) and (max-width:1200px) {
+  body {
+    overflow: visible !important;
+  }
+  w3m-modal {
+    zoom:3 !important;
+    z-index: 50000000000 !important;
+  }
+.homepage{
+  width: 1120px !important;
+  display: flex !important;
+  flex-direction: column !important;
+margin-left: 13% !important;
+margin-top: 12% !important;
+  height: 900px;
+}
+.homebottom{
+  position: absolute !important;
+  margin-top: 5% !important;
+  display: flex !important;
+  width: 100% !important;
+  justify-content: center !important;
+}
+.homecontant{
+  display: flex !important;
+  flex-direction: column !important;
+  justify-self: center !important;
+  text-align: center !important;
+  margin-top: 10% !important;
+  width: 90% !important;
+}
+.homesubcontant{
+  display: flex !important;
+  flex-direction: column !important;
+  justify-self: center !important;
+  text-align: center !important;
+  margin-top: 7% !important;
+  font-size: 40px !important;
+  width: 70% !important;
+}
+.homenav{
+  width: 100% !important;
+}
+.menubtn{
+  width: 160px !important;
+  height: 60px !important;
+}
+.menuicon{
+  font-size: 40px !important;
+ border: none !important;
+}
+.menutext{
+  font-size: 30px !important;
+}
+.enterbtn{
+  margin-top: 25% !important;
+}
+.homeconatiner{
+  margin-top: 54px !important;
+  width: 60% !important;
+}
+.homelogo{
+  width: 100px !important;
+
+}
+.listingcontainer{
+  width: 40% !important;
+  height: 200px !important;
+  justify-content: center !important;
+  align-items: center !important;
+
+}
+.row{
+  font-size: 28px !important;
+  width: 100% !important;
+  display: flex !important;
+  height: 40px !important;
+  line-height: 40px !important;
+}
+.rowhead{
+  font-size: 30px !important;
+  width: 60% !important;
+}
+.homepara{
+  font-size: 45px !important;
+}
+.walletbackimage{
+  width: 100% !important;
+  margin-top: 55% !important;
+  height: 100% !important;
+  position: relative !important;
+}
+.walletcontiner{
+  margin-left: 0% !important;
+  width: 1200px !important;
+  display: flex !important;
+  height: 1800px !important;
+}
+.walletbackcontainer{
+  position: absolute !important;
+  margin-top:15% !important;
+  height: 1350px !important;
+}
+.presalewallet{
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: left !important;
+}
+.presalelive{
+  width: 100% !important;
+  gap: 30px !important;
+}
+.dot{
+  width: 50px !important;
+  height: 50px !important;
+}
+.presale{
+  display: flex !important;
+  text-align: left !important;
+  justify-self: left !important;
+  font-size: 70px !important;
+  width: 100% !important;
+}
+.price{
+  width: 100% !important;
+  gap: 0px !important;
+  margin-top: 2%;
+
+}
+.pricetxt{
+  font-size: 39px !important;
+}
+.progressbar{
+  margin-top: 14% !important;
+  height: 70px !important;
+  margin-bottom: 4%;
+  width: 100% !important;
+  margin-left: 0% !important;
+}
+.countdown{
+padding: 5px !important;
+width: 100% !important;
+}
+.fontcountdown{
+  font-size: 30px !important;
+  font-family: 'Rajdhani';
+  padding: 2px !important;
+}
+.priceconatiner{
+  width: 70% ;
+  justify-self: center !important;
+  display: grid !important;
+  width: 100%;
+}
+.currentprice{
+  font-size: 40px !important;
+  font-family: "Rajdhani";
+  text-align: center;
+}
+.dropcontainer{
+  border: 5px solid white !important;
+  width: 100% !important;
+}
+.inputfield{
+  height: 120px !important;
+  margin-top: 3% !important;
+}
+.inputtext{
+  height: 50px !important;
+  font-size: 40px !important;
+  line-height: 50px !important;
+}
+.inputtextleft{
+  font-size: 50px !important;
+  height: 90px !important;
+  line-height: 140px !important;
+}
+.dropimage{
+  width: 30% !important;
+  height: 20px !important;
+  margin-left: 10%;
+}
+.walletbtn{
+  height: 120px !important;
+  font-size: 55px !important;
+}
+.donot{
+  font-size: 40px !important;
+}
+.bonus{
+  font-size: 50px !important;
+}
+.bonustext{
+  font-size: 45px !important;
+}
+.font-space-grotesk{
+  font-size: 40px !important;
+  line-height: 40px !important;
+}
+.modalheader{
+  font-size: 60px !important;
+}
+.mobilewallet{
+   max-width: 90% !important;
+   width: 100% !important;
+   position: absolute !important;
+   height: 800px !important;
+   gap: 10px !important;
+}
+.cardimage{
+width: 80px !important;
+height: 80px !important;
+}
+.css-wl0d9u {
+  display: flex;
+  width: 100% !important;
+  position: fixed;
+  height: 100% !important;
+}
+.modelclode{
+  padding: 5% !important;
+  font-size: 40px !important;
+}
+.cardtitle{
+font-size: 60px !important;
+font-family: 'Rajdhani';
+}
+.cardsubtitle{
+  font-size: 50px !important;
+  font-family: 'Rajdhani';
+}
+.whyvirtucontainer{
+  margin-top: 70% !important;
+  padding: 5%;
+
+}
+.virtuhead{
+  font-size: 70px !important;
+}
+.virtuhead1{
+  font-size: 120px !important;
+}
+.virtuhead2{
+  font-size: 180px !important;
+}
+.virtupara{
+  font-size: 50px !important;
+  line-height: 50px !important;
+}
+.virtucards{
+  display: grid !important;
+  width: 80% !important;
+  justify-items: center !important;
+  align-self: center !important;
+}
+.virtucard{
+  width: 100% !important;
+  height: 600px !important;
+  padding-left: 5% !important;
+  transform: translateX(0px) !important;
+}
+.virtucardimg{
+  width: 150px !important;
+  height: 150px !important;
+ 
+}
+.virtucardhead{
+  font-size: 80px !important;
+  line-height: 70px !important;
+  justify-content: left !important;
+  align-items: left !important;
+  text-align: left  !important;
+  
+}
+.virtucardpara{
+  font-size: 60px !important;
+  margin-top: 5% !important;
+  display: flex !important;
+  justify-content: left !important;
+  align-items: left !important;
+  text-align: left  !important;
+  line-height: 60px !important;
+
+}
+.echosystemconrainer{
+  width: 1150px !important;
+  height: 1500px !important;
+  margin-top: 218pc !important;
+}
+.echosystem{
+  position: relative !important;
+  width: 100% !important;
+}
+.capitalecho{
+  position: absolute !important;
+  margin-top: 45% !important;
+}
+.echosystempara{
+  position: absolute !important;
+  margin-top:65% !important;
+  width: 100% !important;
+}
+.echohead{
+  font-size: 50px !important;
+}
+.echosubhead{
+  font-size: 120px !important;
+}
+.echoparagraph{
+  font-weight: 100 !important;
+  line-height: 50px !important;
+  font-size: 50px !important;
+  text-align: center !important;
+  width: 100% !important;
+}
+.metaversecontainer{
+  width: 1150px !important;
+  margin-top: 300pc;
+}
+.metaverseimage{
+  position: relative !important;
+  width: 100% !important;
+}
+.metaversehead{
+  
+  margin-top: -55pc !important;
+  width: 1150px !important;
+}
+.meraversesubhead{
+  font-size: 80px !important;
+}
+.metaverparagraph{
+  font-size: 40px !important;
+  line-height: 50px  !important;
+}
+.metaverrowheading{
+  font-size: 60px !important;
+  font-weight: 500 !important;
+  line-height: 60px !important;
+  margin-bottom: 10% !important;
+}
+.metablockchain{
+  width: 1200px ;
+  margin-top: 200pc !important;
+}
+
+.metablockchaincontainer{
+  width: 1150px !important;
+}
+.blockcards{
+  display: flex !important;
+  margin-top: 30% !important;
+  width: 100% !important;
+align-items: center;
+transform: translateX(0px) !important;
+animation: none !important;
+transition:none !important;
+  flex-direction: column !important;
+}
+.blockchaincard{
+  width: 100% !important;
+  height: 1000px !important;
+  transform: translateX(0px) !important;
+  animation: none !important;
+  transition:none !important;
+
+}
+.blockchaincard:nth-child(1),.blockchaincard:nth-child(2),.blockchaincard:nth-child(3),.blockchaincard:nth-child(4) {
+  transform: translateX(0px);
+  transition: none;
+  opacity: 1;
+  animation: none;
+}
+.blocktophead{
+  width: 100% !important;
+}
+.blockparagraph{
+  font-size: 50px !important;
+  line-height: 50px !important;
+}
+.blockimg{
+  width: 150px !important;
+  height: 150px !important;
+}
+.blockhead{
+  font-size: 60px !important;
+}
+.blockpara{
+  font-size: 50px !important;
+}
+.developmentconatiner{
+  width: 1200px !important;
+  margin-top: 200pc !important;
+}
+.qhead{
+  font-size: 70px !important;
+}
+.qcontainer{
+  font-size: 45px !important;
+  line-height: 50px !important;
+  text-align: left !important;
+}
+.visioncontainer{
+  width: 1200px;
+  margin-top: 55% !important;
+}
+.visionhead{
+  font-size: 70px !important;
+}
+.visionpara{
+  font-size: 50px !important;
+}
+.visioncardscontainer{
+  display: flex !important;
+  width: 80% !important;
+  align-items: center !important;
+  align-self: center !important;
+  flex-direction: column !important;
+  margin-top: 5% !important;
+
+}
+.visioncard{
+  width: 100% !important;
+}
+.visioncardimg{
+  width: 100% !important;
+}
+.visionheading{
+  font-size: 80px !important;
+  margin-top: -120pc !important;
+  width: 900px !important;
+}
+.visionparagraph{
+  font-size: 60px !important;
+  margin-top: -110pc !important;
+  width: 900px !important;
+  padding: 10% !important;
+}
+.visionbottompara{
+  font-size: 50px !important;
+}
+.visionbottom{
+  font-size: 50px !important;
+  line-height: 60px !important;
+}
+.visionbottomparavision{
+  font-size:60px !important;
+  font-family: 'Rajdhani' !important;
+  
+}
+.buildcontainer{
+  display: flex !important;
+  gap: 75px !important;
+  flex-direction: column !important;
+
+}
+.links{
+  display: flex !important;
+  justify-self: center !important;
+  align-self: center !important;
+}
+.faqcontainer{
+  width: 1100px !important;
+  display: flex !important;
+  flex-direction: column !important;
+  justify-items: center !important;
+  margin-left: 50% !important;
+  align-self: center !important;
+}
+.faqhead{
+  font-size: 50px !important;
+  line-height: 50px !important;
+  font-family: 'Rajdhani';
+}
+.faqanswer{
+  font-size: 45px !important;
+  font-family: 'Rajdhani';
+}
+.footer{
+  margin-left: 20% !important;
+  width: 1100px !important;
+  gap: 50px !important;
+}
+.footerinner{
+  display: flex !important;
+  flex-direction: column !important;
+}
+.footerleft{
+max-width: 100% !important;
+width: 100% !important;
+}
+.footerright{
+max-width: 100% !important;
+  width: 100% !important;
+  margin-left: 0% !important;
+}
+.footerlogo{
+  width: 130px !important;
+  height: 130px !important;
+}
+.footerpara{
+  font-size: 60px !important;
+}
+.footerparagraph{
+  font-size: 50px !important;
+  width: 100% !important;
+}
+.footerbtn{
+  font-size: 50px !important;
+}
+.footerbuybtn{
+  width: 100% !important;
+  display: flex !important;
+}
+.buybtn{
+  width: 150px !important;
+  height: 60px !important;
+  font-size: 35px !important;
+}
+.footercontact{
+  font-size: 50px !important;
+}
+.footercopyright{
+  font-size: 30px !important;
+}
+.chart{
+  margin-top: -15% !important;
+}
+.metaverserow1{
+  display: grid !important;
+}
+
+}
+
+
+
+
+
+
